@@ -3,7 +3,7 @@ public class FirstProgram {
 
 public static void main (String[] args){
 
-       System.out.println("Hello Darling");
+       System.out.println("Hello");
 
 }
 }
